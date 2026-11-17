@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-"Hi there! I'm a technology enthusiast with a creative streak and a passion for photography. When I'm not behind the camera, you'll find me coding away and learning all about web development. I bring a unique perspective to the table, thanks to my background in photography. I like to think that my artistic eye helps me create visually appealing websites that not only function well, but look great too. I'm a fast learner, a problem-solver, and a team player. Plus, I have a great sense of humor, which is always a bonus in the tech world. I'm excited to bring my skills and passion to the next web development project and see what we can create together!"
-
+Aspiring Software Engineer with 4+ years of experience in website management, SEO, and digital solutions. Skilled in maintaining production websites, collaborating with cross-functional teams, and delivering client-focused digital solutions. Currently completing WBS Coding School's Software Engineering & AI Program (expected completion: March 2027), developing full-stack applications with Python, JavaScript, React, Node.js, Express, SQL, MongoDB, and Azure while working in Agile environments. Experienced with AI-assisted development using GitHub Copilot and passionate about building scalable, maintainable software solutions.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/BRAINDAMAGER) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/photominded32) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/konstantinos-theodoropoulos-ba8810109) 
